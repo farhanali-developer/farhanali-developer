@@ -30,6 +30,7 @@ I'm a passionate Full Stack Developer with over 6 years of experience in buildin
 
 ### CMS:
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![HubSpot](https://img.shields.io/static/v1?style=for-the-badge&message=HubSpot&color=FF7A59&logo=HubSpot&logoColor=FFFFFF&label=)
 
 ### PHP Frameworks:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
