@@ -49,6 +49,9 @@ I'm a passionate Full Stack Developer with over 6 years of experience in buildin
 
 I'm currently diving deeper into the TALL Stack to create even more efficient and dynamic web applications.
 
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanali-developer&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 ## Connect with Me
 
 - YouTube: [My YouTube Channel](https://youtube.com/@holycode150)
