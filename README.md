@@ -20,6 +20,7 @@ I'm a passionate Full Stack Developer with over 6 years of experience in buildin
 ![VueJS](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### Backend:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -31,6 +32,7 @@ I'm a passionate Full Stack Developer with over 6 years of experience in buildin
 ### CMS:
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![HubSpot](https://img.shields.io/static/v1?style=for-the-badge&message=HubSpot&color=FF7A59&logo=HubSpot&logoColor=FFFFFF&label=)
+![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
 ### PHP Frameworks:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -49,6 +51,9 @@ I'm a passionate Full Stack Developer with over 6 years of experience in buildin
 
 I'm currently diving deeper into the TALL Stack to create even more efficient and dynamic web applications.
 
+## GitHub Profile Summary
+![Your GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhanali-developer&theme=github_dark)
+
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanali-developer&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
@@ -60,6 +65,7 @@ I'm currently diving deeper into the TALL Stack to create even more efficient an
 [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=globe&logoColor=white)](https://farhanali.me)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@holycode150)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhanali-developer)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c79429a120e432e9)
 
 <a href="https://www.linkedin.com/in/farhan-developer/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
