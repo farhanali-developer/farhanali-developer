@@ -57,6 +57,9 @@ I'm currently diving deeper into the TALL Stack to create even more efficient an
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanali-developer&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+## Most used languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanali-developer&theme=onedark)
+
 ## Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhan.logicware@gmail.com)
