@@ -7,42 +7,42 @@ I'm a passionate Full Stack Developer with over 6 years of experience in buildin
 ## Technologies I Work With
 
 - Frontend: 
-  - HTML5 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML5 Icon" width="20" height="20">
-  - CSS3 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS3 Icon" width="20" height="20">
-  - Bootstrap5 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg" alt="Bootstrap5 Icon" width="20" height="20">
-  - SCSS/SASS <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" alt="SCSS/SASS Icon" width="20" height="20">
-  - LESS <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/less.svg" alt="LESS Icon" width="20" height="20">
-  - TailwindCSS <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" alt="TailwindCSS Icon" width="20" height="20">
-  - MaterialUI <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/material-ui.svg" alt="MaterialUI Icon" width="20" height="20">
-  - JavaScript <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript Icon" width="20" height="20">
-  - jQuery <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jquery.svg" alt="jQuery Icon" width="20" height="20">
-  - ReactJS <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="ReactJS Icon" width="20" height="20">
-  - VueJS <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vue-dot-js.svg" alt="VueJS Icon" width="20" height="20">
+  - HTML5 ![HTML5 Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg)
+  - CSS3 ![CSS3 Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg)
+  - Bootstrap5 ![Bootstrap5 Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg)
+  - SCSS/SASS ![SCSS/SASS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg)
+  - LESS ![LESS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/less.svg)
+  - TailwindCSS ![TailwindCSS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg)
+  - MaterialUI ![MaterialUI Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/material-ui.svg)
+  - JavaScript ![JavaScript Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg)
+  - jQuery ![jQuery Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jquery.svg)
+  - ReactJS ![ReactJS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg)
+  - VueJS ![VueJS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vue-dot-js.svg)
   
 - Backend: 
-  - ExpressJS <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" alt="ExpressJS Icon" width="20" height="20">
-  - NodeJS <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg" alt="NodeJS Icon" width="20" height="20">
+  - ExpressJS ![ExpressJS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg)
+  - NodeJS ![NodeJS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg)
   
 - Databases: 
-  - MongoDB <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" alt="MongoDB Icon" width="20" height="20">
-  - SQL <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sql.svg" alt="SQL Icon" width="20" height="20">
-  - MySQL <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" alt="MySQL Icon" width="20" height="20">
+  - MongoDB ![MongoDB Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg)
+  - SQL ![SQL Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sql.svg)
+  - MySQL ![MySQL Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg)
   
 - CMS: 
-  - WordPress <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/wordpress.svg" alt="WordPress Icon" width="20" height="20">
+  - WordPress ![WordPress Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/wordpress.svg)
   
 - PHP Frameworks: 
-  - Laravel <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/laravel.svg" alt="Laravel Icon" width="20" height="20">
+  - Laravel ![Laravel Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/laravel.svg)
   
 - Real-time web development: 
-  - Livewire <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/livewire.svg" alt="Livewire Icon" width="20" height="20">
-  - AlpineJS <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alpinejs.svg" alt="AlpineJS Icon" width="20" height="20">
+  - Livewire ![Livewire Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/livewire.svg)
+  - AlpineJS ![AlpineJS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alpinejs.svg)
   
 - Containerization: 
-  - Docker <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" alt="Docker Icon" width="20" height="20">
+  - Docker ![Docker Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg)
   
 - Orchestration: 
-  - Kubernetes <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kubernetes.svg" alt="Kubernetes Icon" width="20" height="20">
+  - Kubernetes ![Kubernetes Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kubernetes.svg)
 
 ## What I'm Currently Learning
 
