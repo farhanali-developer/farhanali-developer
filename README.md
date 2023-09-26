@@ -54,12 +54,12 @@ I'm currently diving deeper into the TALL Stack to create even more efficient an
 
 ## Connect with Me
 
-- YouTube: [My YouTube Channel](https://youtube.com/@holycode150)
-- GitHub: [GitHub Profile](https://github.com/farhanali-developer)
-- Portfolio: [farhanali.me](https://farhanali.me)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/farhan-developer/)
-- Stack Overflow: [Stack Overflow Profile](https://stackoverflow.com/users/10815844/farhan-ali)
-- Email: farhan.logicware@gmail.com
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@holycode150)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhanali-developer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://farhanali.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-developer/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10815844/farhan-ali)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhan.logicware@gmail.com)
 
 <a href="https://www.linkedin.com/in/farhan-developer/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
