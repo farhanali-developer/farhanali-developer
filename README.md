@@ -22,7 +22,7 @@ I'm currently diving deeper into the TALL Stack to create even more efficient an
 ## Connect with Me
 
 - YouTube: [My YouTube Channel](https://youtube.com/@holycode150)
-- GitHub: [GitHub Profile](https://github.com/fareeboy12)
+- GitHub: [GitHub Profile](https://github.com/farhanali-developer)
 - Portfolio: [farhanali.me](https://farhanali.me)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/farhan-developer/)
 - Stack Overflow: [Stack Overflow Profile](https://stackoverflow.com/users/10815844/farhan-ali)
