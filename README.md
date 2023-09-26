@@ -61,6 +61,8 @@ I'm currently diving deeper into the TALL Stack to create even more efficient an
 - Stack Overflow: [Stack Overflow Profile](https://stackoverflow.com/users/10815844/farhan-ali)
 - Email: farhan.logicware@gmail.com
 
+<a href="https://www.linkedin.com/in/farhan-developer/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to chat about web development!
 
 <!-- GitHub Stats: You can include your GitHub stats here using a service like https://github.com/anuraghazra/github-readme-stats -->
