@@ -7,42 +7,42 @@ I'm a passionate Full Stack Developer with over 6 years of experience in buildin
 ## Technologies I Work With
 
 - Frontend: 
-  - HTML5 ![HTML5 Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg)
-  - CSS3 ![CSS3 Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg)
-  - Bootstrap5 ![Bootstrap5 Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg)
-  - SCSS/SASS ![SCSS/SASS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg)
-  - LESS ![LESS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/less.svg)
-  - TailwindCSS ![TailwindCSS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg)
-  - MaterialUI ![MaterialUI Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/material-ui.svg)
-  - JavaScript ![JavaScript Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg)
-  - jQuery ![jQuery Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jquery.svg)
-  - ReactJS ![ReactJS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg)
-  - VueJS ![VueJS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vue-dot-js.svg)
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  - ![SCSS/SASS](https://img.shields.io/badge/SCSS%2FSASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  - ![LESS](https://img.shields.io/badge/LESS-1D365D?style=for-the-badge&logo=less&logoColor=white)
+  - ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  - ![MaterialUI](https://img.shields.io/badge/MaterialUI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+  - ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  - ![VueJS](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
   
 - Backend: 
-  - ExpressJS ![ExpressJS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg)
-  - NodeJS ![NodeJS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg)
+  - ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  - ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   
 - Databases: 
-  - MongoDB ![MongoDB Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg)
-  - SQL ![SQL Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sql.svg)
-  - MySQL ![MySQL Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg)
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  - ![SQL](https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=sql&logoColor=white)
+  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   
 - CMS: 
-  - WordPress ![WordPress Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/wordpress.svg)
+  - ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
   
 - PHP Frameworks: 
-  - Laravel ![Laravel Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/laravel.svg)
+  - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   
 - Real-time web development: 
-  - Livewire ![Livewire Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/livewire.svg)
-  - AlpineJS ![AlpineJS Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/alpinejs.svg)
+  - ![Livewire](https://img.shields.io/badge/Livewire-00B0FF?style=for-the-badge&logo=livewire&logoColor=white)
+  - ![AlpineJS](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
   
 - Containerization: 
-  - Docker ![Docker Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg)
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   
 - Orchestration: 
-  - Kubernetes ![Kubernetes Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kubernetes.svg)
+  - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## What I'm Currently Learning
 
