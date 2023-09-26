@@ -60,6 +60,9 @@ I'm currently diving deeper into the TALL Stack to create even more efficient an
 ## Most used languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanali-developer&theme=onedark)
 
+## Contributions
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=farhanali-developer&theme=onedark)
+
 ## Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhan.logicware@gmail.com)
