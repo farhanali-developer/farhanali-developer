@@ -2,7 +2,7 @@
 
 ![Farhan Ali GIF](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
-I'm a passionate Full Stack Developer with over 6 years of experience in building web applications and software solutions. I specialize in the TALL Stack (TailwindCSS, AlpineJS, Livewire, Laravel) and have a strong foundation in a variety of web technologies.
+I'm a passionate Full Stack Developer with over 7 years of experience in building web applications and software solutions. I specialize in the TALL Stack (TailwindCSS, AlpineJS, Livewire, Laravel) and have a strong foundation in a variety of web technologies.
 
 ## Technologies I Work With
 
